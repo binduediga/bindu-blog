@@ -1,0 +1,2 @@
+# bindu-blog
+django project
