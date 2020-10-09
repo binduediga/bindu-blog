@@ -117,8 +117,8 @@ USE_TZ = True
 EMAIL_USE_TLS=True
 EMAIL_HOST='smtp.gmail.com'
 EMAIL_PORT=587
-EMAIL_HOST_USER='bindu.ediga6@gmail.com'
-EMAIL_HOST_PASSWORD='Bindu@123'
+EMAIL_HOST_USER=''
+EMAIL_HOST_PASSWORD=''
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 MEDIA_ROOT=os.path.join(BASE_DIR,'es/static/images')
