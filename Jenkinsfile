@@ -8,7 +8,7 @@ pipeline{
         {
             steps{
                  
-                 git branch: 'v3', url: 'https://github.com/binduediga/udemylab.git'
+                 git branch: 'v3', url: 'https://github.com/binduediga/bindu-blog.git'
                 
 
             echo "hello"
